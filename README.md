@@ -1,6 +1,6 @@
 ## Olá, Bem-vindo aqui eu sou o Marcelo👋
 
-Amante das Tecnologías, Programador web Front-end
+Amante das Tecnologías, Programador web Front-end. -- *Estudando Cyber Security*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
