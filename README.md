@@ -1,4 +1,4 @@
-## Olá, Bem-vindo aqui eu sou o Marcelo👋
+## Olá, Bem-vindo aqui! Eu sou o Marcelo👋
 
 Amante das Tecnologías, Programador web Front-end. -- *Estudando Cyber Security*
 
