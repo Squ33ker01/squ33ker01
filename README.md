@@ -1,13 +1,7 @@
 ## Olá, Bem-vindo aqui! Eu sou o Marcelo👋
 
-Amante das Tecnologías, Programador web Front-end. -- *Estudando Cyber Security*
+Amante das Tecnologías,  -- *Cyber Security*
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
  
  ##
  
