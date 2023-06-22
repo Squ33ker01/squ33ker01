@@ -1,6 +1,6 @@
 ## Olá, Bem-vindo aqui! Eu sou o Marcelo👋
 
-Amante das Tecnologías,  -- *Cyber Security*
+A ciência de hoje é a tecnologia de amanhã.
 
  
  ##
